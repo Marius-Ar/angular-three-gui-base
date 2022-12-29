@@ -1,6 +1,6 @@
 # angular-three-gui-base
 
-Angular 15/Three.JS base coming with dat.GUI and OrbitControls.
+Angular 15/Three.JS ready to use project coming with dat.GUI and OrbitControls.
 
 
 ## Installation
